@@ -1,0 +1,152 @@
+[
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/WebApps/XuanServer/src/main.cpp.o -c /home/xuan/XuanServer/WebApps/XuanServer/src/main.cpp",
+  "file": "/home/xuan/XuanServer/WebApps/XuanServer/src/main.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/HttpServer/src/http/HttpContext.cpp.o -c /home/xuan/XuanServer/HttpServer/src/http/HttpContext.cpp",
+  "file": "/home/xuan/XuanServer/HttpServer/src/http/HttpContext.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/HttpServer/src/http/HttpRequest.cpp.o -c /home/xuan/XuanServer/HttpServer/src/http/HttpRequest.cpp",
+  "file": "/home/xuan/XuanServer/HttpServer/src/http/HttpRequest.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/HttpServer/src/http/HttpResponse.cpp.o -c /home/xuan/XuanServer/HttpServer/src/http/HttpResponse.cpp",
+  "file": "/home/xuan/XuanServer/HttpServer/src/http/HttpResponse.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/HttpServer/src/http/HttpServer.cpp.o -c /home/xuan/XuanServer/HttpServer/src/http/HttpServer.cpp",
+  "file": "/home/xuan/XuanServer/HttpServer/src/http/HttpServer.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/HttpServer/src/middleware/MiddlewareChain.cpp.o -c /home/xuan/XuanServer/HttpServer/src/middleware/MiddlewareChain.cpp",
+  "file": "/home/xuan/XuanServer/HttpServer/src/middleware/MiddlewareChain.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/HttpServer/src/middleware/cors/CorsMiddleware.cpp.o -c /home/xuan/XuanServer/HttpServer/src/middleware/cors/CorsMiddleware.cpp",
+  "file": "/home/xuan/XuanServer/HttpServer/src/middleware/cors/CorsMiddleware.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/HttpServer/src/router/Router.cpp.o -c /home/xuan/XuanServer/HttpServer/src/router/Router.cpp",
+  "file": "/home/xuan/XuanServer/HttpServer/src/router/Router.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/HttpServer/src/session/Session.cpp.o -c /home/xuan/XuanServer/HttpServer/src/session/Session.cpp",
+  "file": "/home/xuan/XuanServer/HttpServer/src/session/Session.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/HttpServer/src/session/SessionManager.cpp.o -c /home/xuan/XuanServer/HttpServer/src/session/SessionManager.cpp",
+  "file": "/home/xuan/XuanServer/HttpServer/src/session/SessionManager.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/HttpServer/src/session/SessionStorage.cpp.o -c /home/xuan/XuanServer/HttpServer/src/session/SessionStorage.cpp",
+  "file": "/home/xuan/XuanServer/HttpServer/src/session/SessionStorage.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/HttpServer/src/ssl/SslConfig.cpp.o -c /home/xuan/XuanServer/HttpServer/src/ssl/SslConfig.cpp",
+  "file": "/home/xuan/XuanServer/HttpServer/src/ssl/SslConfig.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/HttpServer/src/ssl/SslConnection.cpp.o -c /home/xuan/XuanServer/HttpServer/src/ssl/SslConnection.cpp",
+  "file": "/home/xuan/XuanServer/HttpServer/src/ssl/SslConnection.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/HttpServer/src/ssl/SslContext.cpp.o -c /home/xuan/XuanServer/HttpServer/src/ssl/SslContext.cpp",
+  "file": "/home/xuan/XuanServer/HttpServer/src/ssl/SslContext.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/HttpServer/src/utils/db/DbConnection.cpp.o -c /home/xuan/XuanServer/HttpServer/src/utils/db/DbConnection.cpp",
+  "file": "/home/xuan/XuanServer/HttpServer/src/utils/db/DbConnection.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/HttpServer/src/utils/db/DbConnectionPool.cpp.o -c /home/xuan/XuanServer/HttpServer/src/utils/db/DbConnectionPool.cpp",
+  "file": "/home/xuan/XuanServer/HttpServer/src/utils/db/DbConnectionPool.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/WebApps/XuanServer/src/GamePVP.cpp.o -c /home/xuan/XuanServer/WebApps/XuanServer/src/GamePVP.cpp",
+  "file": "/home/xuan/XuanServer/WebApps/XuanServer/src/GamePVP.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/WebApps/XuanServer/src/XuanGame.cpp.o -c /home/xuan/XuanServer/WebApps/XuanServer/src/XuanGame.cpp",
+  "file": "/home/xuan/XuanServer/WebApps/XuanServer/src/XuanGame.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/WebApps/XuanServer/src/XuanServer.cpp.o -c /home/xuan/XuanServer/WebApps/XuanServer/src/XuanServer.cpp",
+  "file": "/home/xuan/XuanServer/WebApps/XuanServer/src/XuanServer.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/WebApps/XuanServer/src/handlers/AiGameMoveHandler.cpp.o -c /home/xuan/XuanServer/WebApps/XuanServer/src/handlers/AiGameMoveHandler.cpp",
+  "file": "/home/xuan/XuanServer/WebApps/XuanServer/src/handlers/AiGameMoveHandler.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/WebApps/XuanServer/src/handlers/AiGameStartHandler.cpp.o -c /home/xuan/XuanServer/WebApps/XuanServer/src/handlers/AiGameStartHandler.cpp",
+  "file": "/home/xuan/XuanServer/WebApps/XuanServer/src/handlers/AiGameStartHandler.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/WebApps/XuanServer/src/handlers/EntryHandler.cpp.o -c /home/xuan/XuanServer/WebApps/XuanServer/src/handlers/EntryHandler.cpp",
+  "file": "/home/xuan/XuanServer/WebApps/XuanServer/src/handlers/EntryHandler.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/WebApps/XuanServer/src/handlers/GameBackendHandler.cpp.o -c /home/xuan/XuanServer/WebApps/XuanServer/src/handlers/GameBackendHandler.cpp",
+  "file": "/home/xuan/XuanServer/WebApps/XuanServer/src/handlers/GameBackendHandler.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/WebApps/XuanServer/src/handlers/LoginHandler.cpp.o -c /home/xuan/XuanServer/WebApps/XuanServer/src/handlers/LoginHandler.cpp",
+  "file": "/home/xuan/XuanServer/WebApps/XuanServer/src/handlers/LoginHandler.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/WebApps/XuanServer/src/handlers/Loginout.cpp.o -c /home/xuan/XuanServer/WebApps/XuanServer/src/handlers/Loginout.cpp",
+  "file": "/home/xuan/XuanServer/WebApps/XuanServer/src/handlers/Loginout.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/WebApps/XuanServer/src/handlers/MenuHandler.cpp.o -c /home/xuan/XuanServer/WebApps/XuanServer/src/handlers/MenuHandler.cpp",
+  "file": "/home/xuan/XuanServer/WebApps/XuanServer/src/handlers/MenuHandler.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/WebApps/XuanServer/src/handlers/PvpMoveHandler.cpp.o -c /home/xuan/XuanServer/WebApps/XuanServer/src/handlers/PvpMoveHandler.cpp",
+  "file": "/home/xuan/XuanServer/WebApps/XuanServer/src/handlers/PvpMoveHandler.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/WebApps/XuanServer/src/handlers/PvpPollMoveHandler.cpp.o -c /home/xuan/XuanServer/WebApps/XuanServer/src/handlers/PvpPollMoveHandler.cpp",
+  "file": "/home/xuan/XuanServer/WebApps/XuanServer/src/handlers/PvpPollMoveHandler.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/WebApps/XuanServer/src/handlers/PvpStartHandler.cpp.o -c /home/xuan/XuanServer/WebApps/XuanServer/src/handlers/PvpStartHandler.cpp",
+  "file": "/home/xuan/XuanServer/WebApps/XuanServer/src/handlers/PvpStartHandler.cpp"
+},
+{
+  "directory": "/home/xuan/XuanServer/build",
+  "command": "/usr/bin/g++  -I/home/xuan/XuanServer -I/home/xuan/XuanServer/include -I/home/xuan/XuanServer/HttpServer/include -I/home/xuan/XuanServer/WebApps/XuanServer/include -I/usr/include/mysql-cppconn-8 -I/usr/include/mysql -g -std=gnu++17 -o CMakeFiles/simple_xuan_server.dir/WebApps/XuanServer/src/handlers/RegisterHandler.cpp.o -c /home/xuan/XuanServer/WebApps/XuanServer/src/handlers/RegisterHandler.cpp",
+  "file": "/home/xuan/XuanServer/WebApps/XuanServer/src/handlers/RegisterHandler.cpp"
+}
+]

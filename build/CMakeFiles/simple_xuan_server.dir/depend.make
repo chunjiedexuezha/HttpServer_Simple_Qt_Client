@@ -1,0 +1,2 @@
+# Empty dependencies file for simple_xuan_server.
+# This may be replaced when dependencies are built.

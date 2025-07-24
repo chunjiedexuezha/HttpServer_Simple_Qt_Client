@@ -1,3 +1,0 @@
-/home/xuan/XuanServer/build/CMakeFiles/simple_xuan_server.dir
-/home/xuan/XuanServer/build/CMakeFiles/edit_cache.dir
-/home/xuan/XuanServer/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>黄色熊头.png</file>
+        <file>棕色熊头.png</file>
+    </qresource>
+</RCC>
